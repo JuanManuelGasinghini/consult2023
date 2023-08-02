@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg-azul{
+    background-color: rgb(45, 45, 170);
+}
+
+.c-blanco{
+color: white;
+}
+
+.bg-oscuro{
+    color: blue;
+}
+
+.bg-primary{
+color: gray;
+}
+
+.bg-rojo{
+background-color: rgb(244,236,224);
+}
+
